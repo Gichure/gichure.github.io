@@ -1,37 +1,10 @@
-## Welcome to GitHub Pages
+## Gichure's Board
+I am an experienced, hands-on software engineer involved in the analysis, architecture design, and implementation of service-oriented architecture, distributed systems and micro-services architectures. Having been in software industry since 2010, I have significant experience and expertise in application, integration and enterprise architectures. I comprehensively understand the full life-cycle development, including analysis, design, development, testing, documentation, implementation, and maintenance of variety of systems architectures.  
 
-You can use the [editor on GitHub](https://github.com/Gichure/gichure.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+My focus has been in designing and developing object-oriented software applications in Pensions, Finance and Insurance industries using well-orchestrated design patterns and software development principles.  
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I possess sound knowledge of developing applications based on technologies such as Hibernate, Jakarta EE (Java EE), Laravel, Eloquent backed by either Oracle, MySQL, MSSQL using the MVC architecture.  
 
-### Markdown
+I am a motivated individual who has experience of working in a team environment (both as a member and leader) where creative solutions are encouraged, technical challenges are the norm and am always willing to learn. I relate well with my junior and senior colleagues.   
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Gichure/gichure.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+I have led and managed teams to implement enterprise systems in various countries in Africa.
