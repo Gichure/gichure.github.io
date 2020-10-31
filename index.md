@@ -8,3 +8,10 @@ I possess sound knowledge of developing applications based on technologies such 
 I am a motivated individual who has experience of working in a team environment (both as a member and leader) where creative solutions are encouraged, technical challenges are the norm and am always willing to learn. I relate well with my junior and senior colleagues.   
 
 I have led and managed teams to implement enterprise systems in various countries in Africa.
+
+See some of my work;  
+-  [Twitter Sentiment Analysis Using Python](https://github.com/gichure/twitter-sentiment-analysis)  
+-  [S.O.L.I.D Principles Examples](https://github.com/gichure/solid-principles)  
+-  [Boat Game](https://github.com/gichure/boatbattle)
+-  [Chemicals Symbols Challenge](https://github.com/gichure/dzone-chemicals-symbols)
+
