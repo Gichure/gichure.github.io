@@ -13,5 +13,5 @@ See some of my work;
 -  [Twitter Sentiment Analysis Using Python](https://github.com/gichure/twitter-sentiment-analysis)  
 -  [S.O.L.I.D Principles Examples](https://github.com/gichure/solid-principles)  
 -  [Boat Game](https://github.com/gichure/boatbattle)
--  [Chemicals Symbols Challenge](https://github.com/gichure/dzone-chemicals-symbols)
+-  [Chemicals Symbols Challenge](https://github.com/gichure/chemicals-symbols-challenge)
 
