@@ -11,7 +11,7 @@ I possess sound knowledge of developing applications based on technologies such 
 See some of my work;  
 -  [Twitter Sentiment Analysis Using Python](https://github.com/gichure/twitter-sentiment-analysis)  
 Sentiment Analysis of chosen keywords/@mentions using Twitter Stream API.
--  [Polls App](https://github.com/gichure/twitter-sentiment-analysis)  
+-  [Polls App](https://github.com/gichure/polls-app)  
 This application demonstrates "Shared database with shared schema" principle on managing multi-tenancy applications. 
 -  [S.O.L.I.D Principles Examples](https://github.com/gichure/solid-principles)  
 -  [Boat Game](https://github.com/gichure/boatbattle)
